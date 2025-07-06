@@ -10,10 +10,7 @@ A comprehensive web portal for managing and displaying organizational informatio
 - [Features](#features)
 - [Folder Structure](#folder-structure)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## About
 
@@ -59,13 +56,16 @@ HAL/
 └── .gitattributes
 ```
 
-*(This is a partial structure. See the full list [here]([https://github.com/sagarsatyarthimishra/HAL/tree/main](https://github.com/mysteriousrv/HAL-Project)).)*
+(This provides a partial structure. The full list of details can be found here.)
+[HAL Project Repository](https://github.com/mysteriousrv/HAL-Project)
+
 
 ## Getting Started
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/sagarsatyarthimishra/HAL.git
+   git clone https://github.com/mysteriousrv/HAL-Project.git
+cd HAL-Project
    ```
 2. **Open `index.html` in your web browser** to explore the portal.
 
