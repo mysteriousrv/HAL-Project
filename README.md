@@ -57,7 +57,7 @@ HAL/
 ```
 
 (This provides a partial structure. The full list of details can be found here.)
-[HAL Project Repository](https://github.com/mysteriousrv/HAL-Project)
+[HAL Project Repository](https://github.com/ritvijverma/HAL-Project)
 
 
 ## Getting Started
