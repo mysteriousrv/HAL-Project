@@ -59,7 +59,7 @@ HAL/
 └── .gitattributes
 ```
 
-*(This is a partial structure. See the full list [here](https://github.com/sagarsatyarthimishra/HAL/tree/main).)*
+*(This is a partial structure. See the full list [here]([https://github.com/sagarsatyarthimishra/HAL/tree/main](https://github.com/mysteriousrv/HAL-Project)).)*
 
 ## Getting Started
 
